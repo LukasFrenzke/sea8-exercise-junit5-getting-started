@@ -3,7 +3,7 @@
 ## Setting up
 First of all, fork this repository and clone it. Then initialize a new gradle project using (on Windows):
 ```
-.\gradlew.bat init --dsl kotlin --project-name sea8-excercises-junit5-getting-started --test-framework junit-jupiter --type java-application --package com.wildcodeschool.sea8.exercise.junit_jupiter_getting_started
+.\gradlew.bat init --dsl kotlin --project-name sea8-exercise-junit5-getting-started --test-framework junit-jupiter --type java-application --package com.wildcodeschool.sea8.exercise.junit_jupiter_getting_started
 ```
 This sets up a gradle application project ready to use with the JUnit-Jupiter testing framework.
 
